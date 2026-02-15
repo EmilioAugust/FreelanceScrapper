@@ -1,6 +1,6 @@
-# 🇺🇸 English version
-[![lang ru](https://img.shields.io/badge/lang-ru-blue)](https://github.com/EmilioAugust/NewsParser/blob/main/README.ru.md)
-[![lang en](https://img.shields.io/badge/lang-en-red)](https://github.com/EmilioAugust/NewsParser)
+# 🇷🇺 Русская версия
+[![lang ru](https://img.shields.io/badge/lang-ru-blue)](https://github.com/EmilioAugust/FreelanceScrapper/blob/main/README.ru.md)
+[![lang en](https://img.shields.io/badge/lang-en-red)](https://github.com/EmilioAugust/FreelanceScrapper)
 
 ## Freelance Scrapper
 
